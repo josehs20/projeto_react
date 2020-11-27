@@ -41,7 +41,6 @@ function Sobre(){
           </Col>
         </Row>
       </div>
-    </h1>
     </div>
     );
 }
