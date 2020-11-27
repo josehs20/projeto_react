@@ -8,7 +8,7 @@ import ReactPlayer from 'react-player'
 function Zoom(){
     return(
         <div>
-            <h1>José Teste</h1>
+            <h1>TESTE 1 2 3</h1>
         </div>
 
     );
