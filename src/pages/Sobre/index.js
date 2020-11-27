@@ -6,11 +6,10 @@ import redentor from '../../redentor.png'
 function Sobre(){
   return(
     <div>
-      <h1>
-    <Container>
-        <Row>
-          <Col sm="12" md={{ size: 9, offset: 4 }}><img src={redentor} alt={"redentor"}/>  </Col>
-        </Row>
+      <Container>
+          <Row>
+            <Col sm="12" md={{ size: 9, offset: 4 }}><img src={redentor} alt={"redentor"}/>  </Col>
+          </Row>
       </Container>
  
       <Container>
