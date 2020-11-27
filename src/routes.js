@@ -10,7 +10,7 @@ function Routes(){
     return(
         <BrowserRouter>
             <Switch>
-                <Route path="/projeto_react" exact component={Main} />
+                <Route path="/" exact component={Main} />
                 <Route path="/Sobre" component={Sobre} />
                 <Route path="/Zoom" component={Zoom} />
                 <Route path="/Meet" component={Meet} />
