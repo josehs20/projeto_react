@@ -78,8 +78,7 @@ function Main(){
                     </Card>
                 </Col>
             </Row> 
-
-            
+    
         </div>
     );
 }
