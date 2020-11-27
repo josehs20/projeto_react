@@ -11,7 +11,7 @@ function Routes(){
         <BrowserRouter>
             <Switch>
                 <Route path="/" exact component={Main} />
-                <Route path="/Sobre" component={Sobre} />
+                <Route path="/projeto_react/Sobre" component={Sobre} />
                 <Route path="/Zoom" component={Zoom} />
                 <Route path="/Meet" component={Meet} />
             </Switch>
