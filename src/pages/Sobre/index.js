@@ -36,7 +36,7 @@ function Sobre(){
             <Card body>
               <CardTitle tag="h5">GitHub</CardTitle>
               <CardText>Código Fonte</CardText>
-              <Button color="secondary" href="https://github.com/Viniciusitp">GitHub</Button>
+              <Button color="secondary" href="https://github.com/Viniciusitp/projeto_react">GitHub</Button>
             </Card>
           </Col>
         </Row>
