@@ -92,7 +92,7 @@ function Main(){
                         <tr>
                             <th scope="row">1</th>
                             <td>Fábio Machado</td>
-                            <td>E-mail@hotmail.com</td>
+                            <td>fabiomac@gmail.com</td>
                         </tr>
                     </tbody>
                 </Table>
