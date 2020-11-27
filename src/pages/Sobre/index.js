@@ -22,6 +22,8 @@ function Sobre(){
             </Col>
         </Row>
       </Container>
+
+      <div class="espaco"></div>
       
       <div class="footerSobre">
         <Row>

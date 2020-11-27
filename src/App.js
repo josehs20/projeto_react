@@ -10,6 +10,7 @@ function App () {
     <div>
       <Headers></Headers>
        <Routes />
+       <Footer></Footer>
       </div>
   );
 };

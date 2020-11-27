@@ -15,8 +15,8 @@ function Main(){
         <div>
             <Container className="container d-flex justify-content-center">
                 <Row>
-                    <Col sm="12" md={{ size: 9, offset: 4 }}><img src={redentor} alt={"redentor"}/>  </Col>
-                    <Col sm="12" md={{ size: 9, offset: 3 }}><h1>Ferramentas Para Aulas Remotas</h1></Col>
+                    <Col sm="11" md={{ size: 7, offset: 4 }}><img src={redentor} alt={"redentor"}/>  </Col>
+                    <Col sm="11" md={{ size: 8, offset: 3 }}><h1>Ferramentas Para Aulas Remotas</h1></Col>
                 </Row>
             </Container>
             <Row>
@@ -79,24 +79,7 @@ function Main(){
                 </Col>
             </Row> 
 
-            <div class="footer">
-                <Table dark>
-                    <thead>
-                        <tr>
-                            <th></th>
-                            <th>Professor</th>
-                            <th>E-mail</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td>Fábio Machado</td>
-                            <td>fabiomac@gmail.com</td>
-                        </tr>
-                    </tbody>
-                </Table>
-            </div>
+            
         </div>
     );
 }
